@@ -1,0 +1,31 @@
+_repo: Josh-Billings-Old-Farmer-s-Allminax1870-1879-with-Comic-Illustrations_40191
+_version: 0.1.0
+alternative_title: Josh Billings' Old Farmer's Allminax, 1870-1879, with Comic Illustrations
+covers:
+- cover_type: archival
+  image_path: 40191-h/images/i_covera.png
+creator:
+  author:
+    agent_name: Billings, Josh
+    aliases:
+    - Shaw, Henry W.
+    - Shaw, Henry Wheeler
+    birthdate: 1818
+    deathdate: 1885
+    gutenberg_agent_id: '38348'
+    url: http://www.gutenberg.org/2009/agents/38348
+description: ''
+gutenberg_issued: '2012-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40191'
+  lccn: 02006082
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Almanacs, American'
+- !lcc 'PN'
+title: Josh Billings' Farmer's Allminax, 1870-1879
+url: http://www.gutenberg.org/ebooks/40191
